@@ -1,0 +1,7 @@
+tile.howler_alarm.name=Howler Alarm
+msg.ec.HowlerAlarmSoundRange=Sound Range: %s
+msg.ec.HowlerAlarmSound=Sound
+ttalarm.config.title=TTAlarm Configuration
+ttalarm.config.maxAlarmRange=Max Alarm Range
+ttalarm.config.howlerAlarmRange=Default Alarm Range
+ttalarm.config.alarmPause=Alarm Pause (ticks)

@@ -1,0 +1,9 @@
+{
+    "parent": "ttalarm:block/small_box",
+    "textures": {
+        "particle": "ttalarm:blocks/howler_alarm/back",
+        "side": "ttalarm:blocks/howler_alarm/side",
+        "face": "ttalarm:blocks/howler_alarm/face",
+        "back": "ttalarm:blocks/howler_alarm/back"
+    }
+}
